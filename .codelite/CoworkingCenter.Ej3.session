@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/CoworkingCenter.Ej3.workspace">
+  <int Value="9" Name="m_selectedTab"/>
+  <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/CoworkingCenter.Ej3.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/api.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/test.c" Name="FileName"/>
+      <int Value="259" Name="FirstVisibleLine"/>
+      <int Value="279" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/menu.c" Name="FileName"/>
+      <int Value="483" Name="FirstVisibleLine"/>
+      <int Value="516" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/main.c" Name="FileName"/>
+      <int Value="3" Name="FirstVisibleLine"/>
+      <int Value="36" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/coworkingcenter.h" Name="FileName"/>
+      <int Value="30" Name="FirstVisibleLine"/>
+      <int Value="63" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/data.h" Name="FileName"/>
+      <int Value="88" Name="FirstVisibleLine"/>
+      <int Value="105" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/menu.h" Name="FileName"/>
+      <int Value="40" Name="FirstVisibleLine"/>
+      <int Value="73" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/test.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/coworkingcenter.c" Name="FileName"/>
+      <int Value="325" Name="FirstVisibleLine"/>
+      <int Value="358" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/coworker.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/api.c" Name="FileName"/>
+      <int Value="102" Name="FirstVisibleLine"/>
+      <int Value="135" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/CoworkingCenter.Ej3/PracticaC1/coworker.h" Name="FileName"/>
+      <int Value="8" Name="FirstVisibleLine"/>
+      <int Value="50" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

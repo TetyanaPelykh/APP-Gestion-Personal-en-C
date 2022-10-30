@@ -1,0 +1,1 @@
+./Debug/coworker.c.o ./Debug/coworkingcenter.c.o ./Debug/api.c.o ./Debug/main.c.o ./Debug/menu.c.o ./Debug/test.c.o
